@@ -1,0 +1,8 @@
+﻿{
+  "LocalGitDirectory": "this/is/your/git/project/folder",
+  "GitPath": "this/is/your/full/path/of/git.exe",
+  "BranchName": "this/is/branch/name/to/diff",
+  "StartTime": "set/time/when/to/begin/to/diff",
+  "CompareTool": "this/is/full/path/of/your/compare/tool",
+  "CompareToolParams": "this/is/command/line/arguments/of/your/compare/tool"
+}
